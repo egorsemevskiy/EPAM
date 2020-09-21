@@ -1,0 +1,13 @@
+,Method,R_squared
+0,InterpolateLinear,0.9288104872144433
+1,InterpolateTime,0.9288104872144433
+2,InterpolateQuadratic,0.6523162807513391
+3,InterpolateCubic,0.6430003902255186
+4,InterpolateSlinear,0.9288104872144433
+5,InterpolateAkima,0.8900104892254077
+6,InterpolatePoly3,0.6430003902255186
+7,InterpolatePoly5,-5.32990211138566
+8,InterpolatePoly7,-433.05647879077634
+9,InterpolateSpline3,0.6448488921087755
+10,InterpolateSpline4,-3.8464370453569687
+11,InterpolateSpline5,-5.2245394459042895
